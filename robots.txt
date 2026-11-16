@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boltonelectrician.ca/sitemap-index.xml
